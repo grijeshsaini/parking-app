@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "169520771619",
+    "firebase_url": "https://parking-2g.firebaseio.com",
+    "project_id": "parking-2g",
+    "storage_bucket": "parking-2g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169520771619:android:011c8107acca09d8",
+        "android_client_info": {
+          "package_name": "com.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "$CLIENT_ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "$API_KEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
